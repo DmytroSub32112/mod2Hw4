@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hw4
+namespace Hw4.Plants.Mosses
 {
-   public class Plant
+    public class WhiteMoss : HigherSporePlants
     {
     }
 }
