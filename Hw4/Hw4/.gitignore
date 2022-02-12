@@ -223,6 +223,11 @@ $RECYCLE.BIN
 .exe
 .dll
 .lib
+.suo
+slnx.sqllite
+#
+.suo
+slnx.sqllite
 
 ### Linux ###
 
