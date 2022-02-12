@@ -225,6 +225,9 @@ $RECYCLE.BIN
 .lib
 .suo
 slnx.sqllite
+#
+.suo
+slnx.sqllite
 
 ### Linux ###
 
